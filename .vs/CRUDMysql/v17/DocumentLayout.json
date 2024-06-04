@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c sharp\\CRUDMysql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|d:\\c sharp\\crudmysql\\crudmysql\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\candidateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\candidateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\candidateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\candidateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\elector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\elector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|D:\\c sharp\\CRUDMysql\\crudmysql\\election.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05930ABE-4DEF-4CCE-A902-465E67B51173}|CRUDMysql\\CRUDMysql.csproj|solutionrelative:crudmysql\\election.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Choice.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Choice.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Choice.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Choice.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\Choice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:02:30.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCandidate.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\AddCandidate.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\AddCandidate.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\AddCandidate.cs",
+              "RelativeToolTip": "CRUDMysql\\AddCandidate.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAuwKUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Home.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Home.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Home.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:30:02.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Database.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Database.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Database.cs",
+              "RelativeToolTip": "CRUDMysql\\Database.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAMwKwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:55:26.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandidateInfo.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\CandidateInfo.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\CandidateInfo.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\CandidateInfo.cs",
+              "RelativeToolTip": "CRUDMysql\\CandidateInfo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:49:22.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Choice.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Choice.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Choice.cs",
+              "RelativeToolTip": "CRUDMysql\\Choice.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:17:42.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Election.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Election.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Election.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Election.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\Election.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:26:17.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Home.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Home.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Home.cs",
+              "RelativeToolTip": "CRUDMysql\\Home.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAwMwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:43:05.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCandidate.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\AddCandidate.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\AddCandidate.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\AddCandidate.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\AddCandidate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:48:39.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Election.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Election.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Election.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Election.cs",
+              "RelativeToolTip": "CRUDMysql\\Election.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:26:24.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidateInfo.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\CandidateInfo.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\CandidateInfo.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\CandidateInfo.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\CandidateInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:40:17.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Candidate.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Candidate.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Candidate.cs",
+              "RelativeToolTip": "CRUDMysql\\Candidate.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:03:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\User.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\User.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\User.cs",
+              "RelativeToolTip": "CRUDMysql\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:52:54.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Program.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Program.cs",
+              "RelativeToolTip": "CRUDMysql\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:58:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Login.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Login.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Login.cs",
+              "RelativeToolTip": "CRUDMysql\\Login.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:15:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Login.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Login.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Login.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:51:26.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Main.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Main.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Main.cs",
+              "RelativeToolTip": "CRUDMysql\\Main.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:20:07.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Main.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Main.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Main.cs [Design]",
+              "RelativeToolTip": "CRUDMysql\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:13:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Login.Designer.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Login.Designer.cs",
+              "RelativeToolTip": "CRUDMysql\\Login.Designer.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAmwJEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:15:42.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Elector.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Elector.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Elector.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Elector.cs",
+              "RelativeToolTip": "CRUDMysql\\Elector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:45:53.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Home.Designer.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Home.Designer.cs",
+              "RelativeToolTip": "CRUDMysql\\Home.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:30:09.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Election.Designer.cs",
+              "DocumentMoniker": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Election.Designer.cs",
+              "RelativeDocumentMoniker": "CRUDMysql\\Election.Designer.cs",
+              "ToolTip": "D:\\c sharp\\CRUDMysql\\CRUDMysql\\Election.Designer.cs",
+              "RelativeToolTip": "CRUDMysql\\Election.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:26:31.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
